@@ -26,7 +26,7 @@
 
 ### 🚀 Progetti in Evidenza
 
-#### 📊 [Tracker Tirocinio CLI](https://github.com/GiovanniMicciche/Gestione_Diario_di_Bordo_Tirocinio
+#### 📊 [Tracker Tirocinio CLI] https://github.com/GiovanniMicciche/Gestore_Diario_di_Bordo_Tirocinio
 Un'applicazione a riga di comando (CLI) in **Python** per tracciare ore, progressi e statistiche del proprio tirocinio.
 - Interfaccia terminale interattiva e moderna (tramite `Rich` e `Questionary`).
 - Algoritmo predittivo per calcolare la data esatta di fine percorso escludendo weekend e festività.
