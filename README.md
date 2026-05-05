@@ -36,8 +36,9 @@ Un'applicazione a riga di comando (CLI) in **Python** per tracciare ore, progres
 ---
 
 ### 📈 Le mie Statistiche GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniMicciche&show_icons=true&theme=radical&hide_border=true" alt="Le mie statistiche GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniMicciche&show_icons=true&theme=radical&hide_border=true" alt="Statistiche di GiovanniMicciche" />
 </p>
 
 ---
