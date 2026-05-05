@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 Su di me
-- 🎓 Sto studiando **Laure Magistrale in Ingegneria dell'inteliggenza artificiale e della sicurezza informatica** presso **Universita Kore di Enna**.
+- 🎓 Sto studiando **Laure Magistrale in Ingegneria dell'inteliggenza artificiale e della sicurezza informatica** presso **Università Kore di Enna**.
 - 💡 Mi piace creare programmi che automatizzano la mia vita.
 - 🌱 Attualmente sto perfezionando le mie competenze in: Machine Learning e sulla sicurezza informatica.
 
