@@ -23,7 +23,6 @@
   <!-- Framework & Librerie -->
   <img src="https://img.shields.io/badge/Quarkus-4795EB?style=for-the-badge&logo=quarkus&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
   <!-- Database & Strumenti -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
